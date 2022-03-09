@@ -1,4 +1,4 @@
-# Fungible Token ERC20
+# Summary of a Fungible Token ERC20
 
 This code creates KaseiCoin. KaseiCoin is a fungible token that is ERC-20 compliant. I simulated a crowdsale that  allows people to convert their money to KaseiCoin.
 
@@ -35,7 +35,7 @@ Check the balances associated with those accounts.
 ![image](Evidence/Step6.png)
 
 ## Contributors
-Brought to you by [Andrew Crawford](https://www.linkedin.com/in/crawnicles/)
+[Andrew Crawford](https://www.linkedin.com/in/crawnicles/)
 
 e-mail: crawnicles@gmail.com
 
